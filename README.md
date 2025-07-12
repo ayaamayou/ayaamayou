@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" />
-</p>
+<img align="left" height="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" />
 
 ###
 
@@ -18,6 +16,8 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
+###
+
 <p align="left">
   Je suis <strong>Aya Amayou</strong>, future ingénieure passionnée par le développement backend et les architectures orientées services.<br><br>
   🔭 Actuellement en 4ᵉ année d’Ingénierie Informatique et Réseaux à l’EMSI.<br><br>
@@ -28,17 +28,9 @@
 
 ###
 
-<h3 align="left">💼 Mes projets</h3>
-
-<ul align="left">
-  <li><a href="https://github.com/ayaamayou/facturation-springboot" target="_blank">📦 Module de facturation - Spring Boot</a></li>
-  <li><a href="https://github.com/ayaamayou/gestion-cabinet-dentaire" target="_blank">🦷 Gestion de cabinet dentaire</a></li>
-  <li><a href="https://github.com/ayaamayou/portfolio-html" target="_blank">🌐 Mon portfolio HTML/CSS</a></li>
-</ul>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
-
-<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -80,6 +72,8 @@
 
 <h3 align="left">🔥 My Stats</h3>
 
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaamayou&show_icons=true&theme=dark&hide_border=true" alt="Aya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaamayou&show_icons=true&theme=default" alt="Aya's GitHub stats" />
 </div>
