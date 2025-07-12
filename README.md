@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">welcome</h2>
+<h2 align="center">Welcome 👋</h2>
 
 ###
 
@@ -18,11 +18,17 @@
 
 ###
 
-<p align="left">Je suis Aya Amayou, future ingénieure passionnée par le développement backend et les architectures orientées services.<br><br>🔭 Actuellement en 4ᵉ année d’Ingénierie Informatique et Réseaux à l’EMSI.<br><br>🧰 Compétences : Java, Spring Boot, React, Laravel, MySQL, Git/GitHub, TCP/IP, Linux…<br><br>📚 J’aime concevoir des applications robustes : solutions de facturation, systèmes de gestion (cabinet dentaire, école).<br><br>🌱 En apprentissage continu : backend & architectures 3-tiers.</p>
+<p align="left">
+  Je suis <strong>Aya Amayou</strong>, future ingénieure passionnée par le développement backend et les architectures orientées services.<br><br>
+  🔭 Actuellement en 4ᵉ année d’Ingénierie Informatique et Réseaux à l’EMSI.<br><br>
+  🧰 Compétences : Java, Spring Boot, React, Laravel, MySQL, Git/GitHub, TCP/IP, Linux…<br><br>
+  📚 J’aime concevoir des applications robustes : solutions de facturation, systèmes de gestion (cabinet dentaire, école).<br><br>
+  🌱 En apprentissage continu : backend & architectures 3-tiers.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -86,4 +92,10 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaamayou&show_icons=true&theme=github_dark" alt="Aya's GitHub stats" />
+</div>
